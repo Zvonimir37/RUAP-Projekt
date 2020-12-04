@@ -7,6 +7,7 @@ namespace LV_ConsoleAppZad1
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav iz aplikacije od Zvonimira Hajdukovića");
+            Console.WriteLine("Moj broj indexa je: 4");
         }
     }
 }
