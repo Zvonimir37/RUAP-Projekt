@@ -6,7 +6,7 @@ namespace LV_ConsoleAppZad1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav iz aplikacije od Zvonimira Hajdukovića");
         }
     }
 }
